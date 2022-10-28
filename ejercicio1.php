@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
 
+echo "la version de php: ".  phpversion();
 ?>
