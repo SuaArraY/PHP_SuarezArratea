@@ -1,5 +1,7 @@
+<?php 
+echo "la versión de php: ".  phpversion();
+?>
+
 <?php
-
-
-echo "la version de php: ".  phpversion();
+ phpinfo()
 ?>
